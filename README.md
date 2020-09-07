@@ -1,4 +1,6 @@
-# jukin_pytest
+
+# These are the instructions to run this test application.
+
 Clone the jukin_pytest project from Github to your machine.
 Ensure that Python is installed on your machine and that python environment variable is set correctly in path.
 Ensure that grails application server is running.
